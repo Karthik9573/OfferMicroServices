@@ -1,0 +1,377 @@
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.json
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.exe
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.deps.json
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.json
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.dev.json
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\ref\Offer_Microservice.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.pdb
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Humanizer.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfoInputs.cache
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfo.cs
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CoreCompileInputs.cache
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.Manifest.cache
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.xml
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\scopedcss\bundle\Offer_Microservice.styles.css
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.RazorTargetAssemblyInfo.cache
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CopyComplete
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\ref\Offer_Microservice.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.pdb
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.genruntimeconfig.cache
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.AssemblyReference.cache
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\JWT.dll
+C:\FSE\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.json
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.exe
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.deps.json
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.json
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.dev.json
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\ref\Offer_Microservice.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.pdb
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Humanizer.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\JWT.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfoInputs.cache
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfo.cs
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CoreCompileInputs.cache
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.Manifest.cache
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.xml
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\scopedcss\bundle\Offer_Microservice.styles.css
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.RazorTargetAssemblyInfo.cache
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CopyComplete
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\ref\Offer_Microservice.dll
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.pdb
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.genruntimeconfig.cache
+C:\my learnings\Project MFPE\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.AssemblyReference.cache
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.json
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.exe
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.deps.json
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.json
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.dev.json
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\ref\Offer_Microservice.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.pdb
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Humanizer.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\JWT.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfoInputs.cache
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfo.cs
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CoreCompileInputs.cache
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.Manifest.cache
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.xml
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\scopedcss\bundle\Offer_Microservice.styles.css
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.RazorTargetAssemblyInfo.cache
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CopyComplete
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\ref\Offer_Microservice.dll
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.pdb
+C:\my learnings\testing\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.genruntimeconfig.cache
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.exe
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.deps.json
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.json
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.dev.json
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\ref\Offer_Microservice.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.pdb
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\JWT.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfoInputs.cache
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfo.cs
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CoreCompileInputs.cache
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.Manifest.cache
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.xml
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\scopedcss\bundle\Offer_Microservice.styles.css
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CopyComplete
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\ref\Offer_Microservice.dll
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.pdb
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.genruntimeconfig.cache
+C:\Users\sushma\Downloads\Corporate classifieds pod-4\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.AssemblyReference.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.StaticWebAssets.xml
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.exe
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.deps.json
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.json
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.dev.json
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.pdb
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\JWT.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.AssemblyReference.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfoInputs.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfo.cs
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CoreCompileInputs.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\scopedcss\bundle\Offer_Microservice.styles.css
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.Manifest.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CopyComplete
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\refint\Offer_Microservice.dll
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.pdb
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.genruntimeconfig.cache
+C:\Users\D HEMANTH KUMAR\Downloads\Corporate classifieds pod-4 (2)\Corporate classifieds pod-4\Microservices\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\ref\Offer_Microservice.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\appsettings.json
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.StaticWebAssets.xml
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.exe
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.deps.json
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.json
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.runtimeconfig.dev.json
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Offer_Microservice.pdb
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Humanizer.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\JWT.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.AssemblyReference.cache
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfoInputs.cache
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.AssemblyInfo.cs
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CoreCompileInputs.cache
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\scopedcss\bundle\Offer_Microservice.styles.css
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\staticwebassets\Offer_Microservice.StaticWebAssets.Manifest.cache
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.csproj.CopyComplete
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\refint\Offer_Microservice.dll
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.pdb
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\Offer_Microservice.genruntimeconfig.cache
+C:\Users\D HEMANTH KUMAR\Desktop\Cognizant Project\Offer_Microservice\Offer_Microservice\obj\Debug\net5.0\ref\Offer_Microservice.dll
